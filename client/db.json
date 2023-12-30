@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "id": "admin@gmail.com",
+      "firstName": "admin",
+      "lastName": "admin",
+      "password": "password",
+      "circles": []
+    },
+    {
+      "id": "alana",
+      "firstName": "alana",
+      "lastName": "devirgilio",
+      "password": "Ms.Blumberg",
+      "circles": ["kchoax"]
+    },
+    {
+      "id": "angie",
+      "firstName": "angela",
+      "lastName": "seo",
+      "password": "i<3allen",
+      "circles": ["kchoax"]
+    },
+    {
+      "id": "mealy",
+      "firstName": "camille",
+      "lastName": "legnani",
+      "password": "preciouspookie",
+      "circles": ["kchoax"]
+    },
+    {
+      "id": "abhi",
+      "firstName": "abhi",
+      "lastName": "agarwal",
+      "password": "password",
+      "circles": []
+    },
+    {
+      "id": "camille",
+      "firstName": "legnani",
+      "lastName": "i@love.you",
+      "password": "iloveyou",
+      "circles": []
+    }
+  ],
+  "circles": [
+    {
+      "name": "kchoax",
+      "image": "https://doublejj.com/wp-content/uploads/2018/03/2880x1800-cream-solid-color-background.jpg",
+      "numMember": "3",
+      "desc": "alt + scene + aphi better + lesbian (?)",
+      "members": ["mealy", "angie", "alana"]
+    }
+  ],
+  "sockets": [
+    {
+      "id": 1,
+      "messages": [
+        {
+          "text": "hello",
+          "sender": "admin@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "messages": [
+        {
+          "text": "hello",
+          "sender": "admin@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "messages": [
+        {
+          "text": "helloooooo",
+          "sender": "admin@gmail.com"
+        },
+        {
+          "text": "hello",
+          "sender": "admin@gmail.com"
+        },
+        {
+          "text": "hello",
+          "sender": "admin@gmail.com"
+        },
+        {
+          "text": "hello",
+          "sender": "admin@gmail.com"
+        },
+        {
+          "text": "hi",
+          "sender": "admin@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "messages": []
+    },
+    {
+      "id": 5,
+      "messages": []
+    },
+    {
+      "id": 6,
+      "messages": []
+    }
+  ]
+}
